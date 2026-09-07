@@ -1,4 +1,4 @@
-# Hi, I'm Shlok Chorge
+# Hi, I'm [YOUR NAME]
 
 ### Electronics & Embedded Systems | C/C++ | PCB Design
 
@@ -6,27 +6,28 @@ I'm a third-year Electronics & Telecommunication Engineering student
 exploring embedded systems through hands-on electronics, programming,
 and hardware projects.
 
-I'm currently
-building my skills across embedded systems, microcontrollers, PCB
-design, and low-level programming.
+I'm building my skills across embedded systems, microcontrollers,
+PCB design, and low-level programming, with a growing interest in
+working across both embedded hardware and software.
 
 ---
 
 ## About Me
 
-- Currently exploring **embedded systems and microcontrollers**
+- Exploring **embedded systems and microcontrollers**
 - Strong foundation in **C and C++**
 - Hands-on experience with **Arduino and ESP32**
 - Experience with **low-frequency PCB design using KiCad**
 - Familiar with **Data Structures & Algorithms**
 - Comfortable with **Git and GitHub**
-- Interested in developing skills across both **embedded software and hardware**
+- Interested in developing skills across both **embedded hardware and software**
 
 ---
 
 ## Technical Skills
 
 ### Programming
+
 - C
 - C++
 - Python — fundamentals
@@ -35,6 +36,7 @@ design, and low-level programming.
 - Object-Oriented Programming — fundamentals
 
 ### Embedded & Hardware
+
 - Arduino Uno
 - Arduino Nano
 - ESP32
@@ -43,6 +45,7 @@ design, and low-level programming.
 - Analog & Digital Electronics
 
 ### Tools
+
 - Git & GitHub
 - KiCad
 - VS Code
@@ -54,21 +57,21 @@ design, and low-level programming.
 
 ## Projects
 
-### [555 Servo Controller]
+### 📁 PCB Design
 
-A custom PCB project designed using KiCad around an NE555-based
+#### 🔧 555 Servo Controller
+
+<details>
+<summary>View project overview</summary>
+
+A custom PCB designed using KiCad around an NE555-based
 servo control circuit.
 
 **Focus:** PCB Design · Electronics · KiCad
 
-[View Project →](https://github.com/shlok-ac/Servo-Controller-555)
+[View Repository →](YOUR_PROJECT_REPOSITORY_LINK)
 
----
-
-### More Projects Coming
-
-I'm building and documenting projects as I continue learning across
-embedded systems, electronics, and programming.
+</details>
 
 ---
 
@@ -84,21 +87,13 @@ embedded systems, electronics, and programming.
 
 ## Certifications
 
-- **Data Structures & Algorithms**
-
----
-
-## What I'm Working Toward
-
-My current direction is **embedded systems**, with an interest in
-developing a strong understanding of both hardware and software.
-
-I'm using hands-on projects to gradually move from fundamentals
-toward more complete embedded systems.
+- **Data Structures & Algorithms** — [CERTIFICATE / COURSE NAME]
 
 ---
 
 ## Connect
 
-- GitHub: https://github.com/shlok-ac
-- Email: shlokchorge.a@gmail.com
+- GitHub: [YOUR GITHUB URL]
+- LinkedIn: [YOUR LINKEDIN URL]
+- Email: [YOUR EMAIL]
+- Portfolio: [YOUR PORTFOLIO URL]
