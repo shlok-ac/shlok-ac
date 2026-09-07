@@ -1,4 +1,4 @@
-# Hi, I'm [YOUR NAME]
+# Hi, I'm Shlok Chorge
 
 ### Electronics & Embedded Systems | C/C++ | PCB Design
 
@@ -59,19 +59,19 @@ working across both embedded hardware and software.
 
 ### 📁 PCB Design
 
-#### 🔧 555 Servo Controller
-
-<details>
-<summary>View project overview</summary>
-
-A custom PCB designed using KiCad around an NE555-based
-servo control circuit.
-
-**Focus:** PCB Design · Electronics · KiCad
-
-[View Repository →](YOUR_PROJECT_REPOSITORY_LINK)
-
-</details>
+  #### 🔧 555 Servo Controller
+  
+  <details>
+  <summary>View project overview</summary>
+  
+  A custom PCB designed using KiCad around an NE555-based
+  servo control circuit.
+  
+  **Focus:** PCB Design · Electronics · KiCad
+  
+  [View Repository →](https://github.com/shlok-ac/Servo-Controller-555)
+  
+  </details>
 
 ---
 
@@ -87,13 +87,11 @@ servo control circuit.
 
 ## Certifications
 
-- **Data Structures & Algorithms** — [CERTIFICATE / COURSE NAME]
+- **Data Structures & Algorithms**
 
 ---
 
 ## Connect
 
-- GitHub: [YOUR GITHUB URL]
-- LinkedIn: [YOUR LINKEDIN URL]
-- Email: [YOUR EMAIL]
-- Portfolio: [YOUR PORTFOLIO URL]
+- GitHub: https://github.com/shlok-ac
+- Email: shlokchorge.a@gmail.com
