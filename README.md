@@ -57,21 +57,20 @@ working across both embedded hardware and software.
 
 ## Projects
 
-### 📁 PCB Design
+### PCB Design
 
-  #### 🔧 555 Servo Controller
-  
-  <details>
-  <summary>View project overview</summary>
-  
-  A custom PCB designed using KiCad around an NE555-based
-  servo control circuit.
-  
-  **Focus:** PCB Design · Electronics · KiCad
-  
-  [View Repository →](https://github.com/shlok-ac/Servo-Controller-555)
-  
-  </details>
+<details>
+<summary> 555 Servo Controller</summary>
+
+A custom PCB designed using KiCad around an NE555-based
+servo control circuit.
+
+**Focus:** PCB Design · Electronics · KiCad
+
+[View Repository →](https://github.com/shlok-ac/Servo-Controller-555)
+
+---
+</details>
 
 ---
 
