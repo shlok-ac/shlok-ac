@@ -23,10 +23,10 @@ Exploring embedded systems through hands-on electronics, programming, microcontr
 ## Technical Skills
 
 **Programming**  
-C · C++ · Python (fundamentals) · Java (fundamentals)
+C · C++ · Data Structures & Algorithm 
 
-**Core Concepts**  
-Data Structures & Algorithms · Object-Oriented Programming (fundamentals)
+**Additional Programming**  
+Python · Java · Object-Oriented Programming
 
 **Embedded & Hardware**  
 Arduino Uno · Arduino Nano · ESP32 · Microcontrollers · PCB Design
@@ -43,22 +43,26 @@ Git · GitHub · KiCad · VS Code · Arduino IDE
 ### PCB Design
 
 <details>
-<summary> 555 Servo Controller</summary>
+<summary>555 Servo Controller</summary>
 
-<p align="center">
+<p>
   <a href="https://github.com/shlok-ac/Servo-Controller-555">
-    <img src="assets/projects/servo-controller-555.png" width="500">
+    <img align="left" src="assets/projects/servo-controller-555.png" width="400">
+  </a>
+  <br>
+  <strong>A custom PCB designed using KiCad around an NE555-based servo control circuit.</strong>
+  <br>
+
+  <strong>Focus:</strong> PCB Design · Electronics · KiCad
+  <br>
+
+  <a href="https://github.com/shlok-ac/Servo-Controller-555">
+    View Repository →
   </a>
 </p>
 
+<br clear="left">
 
-A custom PCB designed using KiCad around an NE555-based servo control circuit.
-
-**Focus:** PCB Design · Electronics · KiCad
-
-[View Repository →](https://github.com/shlok-ac/Servo-Controller-555)
-
----
 </details>
 
 ---
