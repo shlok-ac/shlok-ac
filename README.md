@@ -2,19 +2,15 @@
 
 ### Electronics & Embedded Systems | C/C++ | PCB Design
 
-I'm a third-year Electronics & Telecommunication Engineering student
-exploring embedded systems through hands-on electronics, programming,
-and hardware projects.
-
-I'm building my skills across embedded systems, microcontrollers,
-PCB design, and low-level programming, with a growing interest in
-working across both embedded hardware and software.
+Exploring embedded systems through hands-on electronics, programming, microcontrollers, and PCB design.
 
 ---
 
 ## About Me
 
-- Exploring **embedded systems and microcontrollers**
+>**I'm a third-year Electronics & Telecommunication Engineering student building my skills across embedded systems, microcontrollers, PCB design, and low-level programming.**
+
+
 - Strong foundation in **C and C++**
 - Hands-on experience with **Arduino and ESP32**
 - Experience with **low-frequency PCB design using KiCad**
@@ -26,32 +22,19 @@ working across both embedded hardware and software.
 
 ## Technical Skills
 
-### Programming
+**Programming**  
+C · C++ · Python (fundamentals) · Java (fundamentals)
 
-- C
-- C++
-- Python — fundamentals
-- Java — fundamentals
-- Data Structures & Algorithms
-- Object-Oriented Programming — fundamentals
+**Core Concepts**  
+Data Structures & Algorithms · Object-Oriented Programming (fundamentals)
 
-### Embedded & Hardware
+**Embedded & Hardware**  
+Arduino Uno · Arduino Nano · ESP32 · Microcontrollers · PCB Design
 
-- Arduino Uno
-- Arduino Nano
-- ESP32
-- Microcontrollers
-- PCB Design
-- Analog & Digital Electronics
+**Tools**  
+Git · GitHub · KiCad · VS Code · Arduino IDE
 
-### Tools
 
-- Git & GitHub
-- KiCad
-- VS Code
-- Arduino IDE
-- Keil — currently learning
-- Scilab — basic exposure
 
 ---
 
@@ -62,8 +45,14 @@ working across both embedded hardware and software.
 <details>
 <summary> 555 Servo Controller</summary>
 
-A custom PCB designed using KiCad around an NE555-based
-servo control circuit.
+<p align="center">
+  <a href="https://github.com/shlok-ac/Servo-Controller-555">
+    <img src="assets/projects/servo-controller-555.png" width="500">
+  </a>
+</p>
+
+
+A custom PCB designed using KiCad around an NE555-based servo control circuit.
 
 **Focus:** PCB Design · Electronics · KiCad
 
