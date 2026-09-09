@@ -81,9 +81,9 @@ Git · GitHub · KiCad · VS Code · Arduino IDE
 
 ---
 
-## Certifications
+## Working On
 
-- **Data Structures & Algorithms**
+> PCB design project
 
 ---
 
