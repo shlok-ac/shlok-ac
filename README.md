@@ -57,7 +57,11 @@ Git · GitHub · KiCad · VS Code · Arduino IDE
   <br>
 
   <a href="https://github.com/shlok-ac/Servo-Controller-555">
-    View Repository →
+    Github Repository →
+  </a>
+  <br><br>
+  <a href="https://shlok-ac.github.io/Servo-Controller-555/">
+    Project Website →
   </a>
 </p>
 
