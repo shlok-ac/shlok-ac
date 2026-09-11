@@ -83,7 +83,7 @@ Git · GitHub · KiCad · VS Code · Arduino IDE
 
 ## Working On
 
-> PCB design project
+> PCB design project : Dual Rail Power Supply 
 
 ---
 
